@@ -1,0 +1,19 @@
+$color: rgb(255, 123, 123);
+$font-weight: 300;
+
+h2 {
+  color: $color;
+  font-weight: $font-weight;
+}
+
+span {
+    font-weight: $font-weight;
+    color: rgb(255, 69, 69) ;
+}
+
+.lili {
+  border: 1px solid black;
+  background-image: url('../image/lambo.jpg');
+  width: 1000px;
+  height:1000px;
+}
